@@ -1,0 +1,25 @@
+<< /proc/bootprof >>:
+----------------------------------------
+0	    BOOT PROF (unit:msec)
+----------------------------------------
+      5071        : preloader
+      4840        : lk
+       259        : lk->Kernel
+----------------------------------------
+      2521.124461 : INIT: on init start
+      2532.307615 : INIT:Mount_START
+      2944.215769 : INIT:Mount_END
+      2946.769076 : start mobicore (on fs)
+      2951.791230 : start mobicore end (on fs)
+      3163.335230 : start mobicore (on fs)
+      3164.030461 : start mobicore end (on fs)
+      3253.572461 : post-fs-data: on modem start
+      5383.929538 : BOOT_Animation:START
+      6464.159538 : Zygote:Preload Start
+      6479.911769 : Zygote:Preload Start
+      8387.314384 : Zygote:Preload End
+      8436.321769 : Zygote:Preload End
+     18182.259385 : BOOT_Animation:END
+----------------------------------------
+================ END of FILE ===============
+

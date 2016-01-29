@@ -1,0 +1,4 @@
+<< /proc/cmdline >>:
+console=tty0 console=ttyMT0,921600n1 root=/dev/ram vmalloc=496M androidboot.hardware=mt6735 slub_max_order=0 slub_debug=O bootopt=64S3,32N2,64N2 androidusb.pid=0x05D8 lcm=1-nt35596_fhd_dsi_vdo_truly_tps65132 fps=5940 vram=29360128 androidboot.preloader=0.00000.00001 androidboot.signkey=a51cml_dtul androidboot.mode=normal androidboot.mrdump2EXT4=0 bootprof.pl_t=5071 bootprof.lk_t=4840 kernelflag=0x0 debugflag=0x0 androidboot.devicerev=1 abnrst=0 radioflag=0x0 radioflagex1=0x0 radioflagex2=0x0 kmemleak=off androidboot.cid=HTC__060 androidboot.mid=2PVD10000 androidboot.bootloader=1.01.0000 ro.op=0 td.sf=0 td.td=0 td.ofs=328 td.prd=1 td.dly=0 td.tmo=300 androidboot.lb=0 boot_reason=0 androidboot.serialno=HQ56GBB44436 androidboot.bootreason=power_key gpt=1
+================ END of FILE ===============
+
